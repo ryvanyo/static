@@ -1,0 +1,12 @@
+html{
+  font-size: 16px;
+  font-family: arial, helvetica, sans-serif;
+}
+
+body{
+  background-color: #ffcc99;
+}
+
+h1{
+  text-decoration: underline;
+}
